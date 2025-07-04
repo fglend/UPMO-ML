@@ -20,9 +20,8 @@ This project applies machine learning to analyze historical sales data. It aims 
 
 ```
 .
-├── notebooks/          # Jupyter Notebooks for exploration and modeling
-├── src/                # Python scripts (preprocessing, models, etc.)
-├── data/               # Raw and processed datasets (excluded in .gitignore)
+├── prophet_forecasts/  # Collection of Prophet Model Predictions
+├── rf_forecast_plots
 ├── requirements.txt    # Dependencies
 ├── .gitignore          # Git ignore file
 └── README.md           # Project documentation

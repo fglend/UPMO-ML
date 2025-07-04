@@ -33,8 +33,8 @@ This project applies machine learning to analyze historical sales data. It aims 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/fglend/UPMO-ML.git
+cd UPMO-ML
 ```
 
 ### 2. Create and Activate Virtual Environment
